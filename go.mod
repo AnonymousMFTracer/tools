@@ -71,5 +71,3 @@ require (
 	github.com/yourbasic/graph v0.0.0-20210606180040-8ecfec1c2869
 	topswap v0.0.0
 )
-
-replace topswap => /home/icecy/topswap
